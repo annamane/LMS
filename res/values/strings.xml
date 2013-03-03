@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_header">Welcome to Test Library Management System</string>
+    <string name="app_name">LibraryManagementSystem</string>
+    <string name="book_list">List of Books</string>
+    <string name="add_member">Add Member</string>
+    <string name="check_out">Check Out</string>
+    <string name="check_in">Check In</string>
+    <string name="add_book">Add Book</string>
+    <string name="title_add_member">Add Member</string>
+    <string name="title_add_book">Add Book</string>
+    <string name="save_member_note">Member Saved...</string>
+    <string name="save_book_note">Book Saved...</string>
+    <string name="title_book_list">List of Books</string>
+
+</resources>
